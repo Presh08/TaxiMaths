@@ -1,0 +1,13 @@
+{
+    "displayName": "TaxiMaths",
+    "appName": "taximaths",
+    "description": "Calculate and Track money spent and your destinations",
+    "lastModified": "2021-06-26T11:54:27.981Z",
+    "imgSourcePath": "",
+    "version": "1.0.0",
+    "appType": "classic",
+    "templateName": "blank",
+    "createDate": "2021-06-26T11:54:26.826Z",
+    "analyticsId": "20526c66-ea08-f213-d647-f39a2145a4d4",
+    "createdStudioVersion": "7.7.2"
+}
